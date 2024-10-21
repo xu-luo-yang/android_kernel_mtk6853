@@ -1,10 +1,9 @@
-# android_kernel_OPPO/Realme_mtk6853
-OPPO/Realme通用内核
+OPPO/Realme  (安卓12 4.14.186机型)  PostmarketOS-Kernel-下游通用内核
 
 
 *适用:*
 
-系统版本:安卓12
+系统:PostmarketOS
 
 内核版本:4.14.186
 
